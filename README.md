@@ -75,5 +75,4 @@ frontend-validation-project/
 - User input validation techniques
 
 ## 👨‍💻 Author
-
-Shashwat Sahu
+Deepali chourasiya
